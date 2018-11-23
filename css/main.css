@@ -44,7 +44,7 @@ ul.posts li {
 }
 p[href$=".pdf"]{
   padding-right: 18px;
-  background-image: url(https://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png);
+  background-image: url(http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png);
   background-position: 100% 50%;
   background-repeat:no-repeat;
 }
