@@ -42,7 +42,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-p[href$=".pdf"]{
+a[href$=".pdf"]{
   padding-right: 18px;
   background-image: url(/_layouts/Adobe_PDF_file_icon_32x32.png);
   background-position: 100% 50%;
