@@ -42,3 +42,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+a[href$=".pdf"]{
+  padding-right: 18px;
+  background-image: url(/path/to/pdf-icon.png);
+  background-position: 100% 50%;
+  background-repeat:no-repeat;
+}
