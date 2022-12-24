@@ -195,7 +195,7 @@ After you are done, **commit** your final changes.
 
 ---
 
-#### Deployment
+#### Deploy
 
 Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
 Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0.3.5), **al-folio** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
