@@ -248,7 +248,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Allassonnière-Tang]
+  last_name: [Allassonnière-Tang, Tang]
   first_name: [Marc]
 
   style: apa
