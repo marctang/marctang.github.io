@@ -8,25 +8,29 @@ nav_order: 5
 ---
 
 
-# CERTIFICATION
+## CERTIFICATION
 
 
-## In FRANCE
+### In FRANCE
 
 ​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU), France.
 
 [ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU), France.
 ​
-## In SWEDEN
+### In SWEDEN
 
-[ACADEMIC TEACHER TRAINING COURSE](https://www.marctang.info/_files/ugd/3a591c_4341e0961b4a4782b6787105b3f0640b.pdf) (five full-time work weeks). The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
+[ACADEMIC TEACHER TRAINING COURSE](https://www.marctang.info/_files/ugd/3a591c_4341e0961b4a4782b6787105b3f0640b.pdf) (five full-time work weeks).  
+The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
 
-[SUPERVISING STUDENTS FOR DEGREE PROJECT](https://www.marctang.info/_files/ugd/3a591c_e55804d4dbba4e0288784ea30ef4f38c.pdf) (two full-time work weeks). The course included different supervisory styles, psychological and social aspects of supervision, conversation skills in supervision, conflict management, diversity-and-gender awareness, and evaluation of degree projects.
+[SUPERVISING STUDENTS FOR DEGREE PROJECT](https://www.marctang.info/_files/ugd/3a591c_e55804d4dbba4e0288784ea30ef4f38c.pdf) (two full-time work weeks).  
+The course included different supervisory styles, psychological and social aspects of supervision, conversation skills in supervision, conflict management, diversity-and-gender awareness, and evaluation of degree projects.
 
-[ASSESSMENT, GRADING AND FEEDBACK](https://www.marctang.info/_files/ugd/3a591c_66df68886e9b4cdfb51970af62e7e766.pdf) (one full-time work week). The course analyses different forms of assessment/examination. Summative (end of course) and formative (during the course) methods are discussed along with various forms of formative practices to use generate feedback from the students.
+[ASSESSMENT, GRADING AND FEEDBACK](https://www.marctang.info/_files/ugd/3a591c_66df68886e9b4cdfb51970af62e7e766.pdf) (one full-time work week).  
+The course analyses different forms of assessment/examination. Summative (end of course) and formative (during the course) methods are discussed along with various forms of formative practices to use generate feedback from the students.
 
 
-# TEACHING MODULES
+
+## TEACHING MODULES
 
 [LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], Spring 2022)  
 Instructor for two teaching sessions. The participants (students and researchers) learned and discussed how to conduct linguistic analyses on corpus data. These sessions are included in the summer school 'Linguistics, sociolinguistics, and ethnolinguistics' of the Muséum National d'Histoire Naturelle in Paris.
@@ -47,7 +51,8 @@ Instructor in charge of the full course (15h). During a week, students have 2 ho
 Instructor for 90-minute sessions introducing the use of the computational classifier of random forests in linguistics. The teaching modules were taught to an audience without previous experience in programming and provided the participants the skills to perform the test of random forests on a provided linguistic dataset.
 
 
-# COURSES
+
+## COURSES
 
 [CURRENT RESEARCH IN LINGUISTICS](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=157803) (Undergraduate course [30h], Spring term 2019)  
 Instructor in charge of the full course. The students are taught how to 1) write simple computer programmes using the R language to analyse, visualise, and process data 2) use appropriate methods to cluster data, to measure similarity between linguistic variables, and to test causal hypotheses.
@@ -59,7 +64,8 @@ Instructor in charge of the full course. This course provides basic theoretic
 Instructor for weekly two-hour lab sessions of R programming in data visualisation an statistical analysis. The teaching content involved basic commands in R, data cleaning and reformatting, multidimensional scaling of data and basic statistical analyses.
 
 
-# LANGUAGE COURSES
+
+## LANGUAGE COURSES
 
 [FRENCH](http://www.ciel.com.tw/scheme_eng.asp) (High school/University level [2500h], 2013 Autumn term - 2015 Spring term)  
 Instructor for group courses between A1 and C2 at the Chinese Institute of European Languages. The teaching load was 30 hours/week and the content involved conversation, writing, grammar courses, and preparation for the DELF diplomas. Teaching materials included but were not limited to CIEL1-6, Tempo1, Tempo2, Alter Ego3.
