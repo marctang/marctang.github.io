@@ -499,13 +499,12 @@ It generates an Atom (RSS-like) feed of your posts, useful for Atom and RSS read
 The feed is reachable simply by typing after your homepage `/feed.xml`.
 E.g. assuming your website mountpoint is the main folder, you can type `yourusername.github.io/feed.xml`
 
-## Contributing
+## Marc notes
 
-Contributions to al-folio are very welcome!
-Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
+- to remove/add back submenus => _pages/dropdown.md
+- to make book chapters show in publis => remove the space between "inproceedings, incollection" in _layouts/bib.html
 
-If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+
 
 ### Maintainers
 
