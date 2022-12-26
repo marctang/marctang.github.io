@@ -54,13 +54,13 @@ Instructor for 90-minute sessions introducing the use of the computational class
 
 ## COURSES
 
-[CURRENT RESEARCH IN LINGUISTICS](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=157803) (Undergraduate course [30h], Spring term 2019)  
+[CURRENT RESEARCH IN LINGUISTICS](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39057&type=1) (Undergraduate course [30h], Spring term 2019)  
 Instructor in charge of the full course. The students are taught how to 1) write simple computer programmes using the R language to analyse, visualise, and process data 2) use appropriate methods to cluster data, to measure similarity between linguistic variables, and to test causal hypotheses.
 
-[COGNITIVE LINGUISTICS](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=183210) (Undergraduate course [30h], Spring term 2019)  
+[COGNITIVE LINGUISTICS](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39067) (Undergraduate course [30h], Spring term 2019)  
 Instructor in charge of the full course. This course provides basic theoretical and methodological knowledge in the area of cognitive linguistics. The students are taught how to use and explain basic concepts of cognitive linguistics in their analysis (e.g., semantic frame, prototype, metaphor).
 
-[VISUALISATION AND STATISTICS](https://github.com/marctang/VisStat-HT18/blob/master/README.md) (Postgraduate course [30h], Autumn term 2018)  
+[VISUALISATION AND STATISTICS](https://github.com/marctang/VisStat-HT18) (Postgraduate course [30h], Autumn term 2018)  
 Instructor for weekly two-hour lab sessions of R programming in data visualisation an statistical analysis. The teaching content involved basic commands in R, data cleaning and reformatting, multidimensional scaling of data and basic statistical analyses.
 
 
