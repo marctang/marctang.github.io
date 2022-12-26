@@ -503,6 +503,7 @@ E.g. assuming your website mountpoint is the main folder, you can type `youruser
 
 - to remove/add back submenus => _pages/dropdown.md
 - to make book chapters show in publis => remove the space between "inproceedings, incollection" in _layouts/bib.html
+- added in bib.html '{% assign book = "book" | split: ','%}' and ifelse below to show the publisher name for books
 
 
 
