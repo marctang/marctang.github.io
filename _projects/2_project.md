@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MACDIT
-description: Grant ASLAN, 229 916 euros
+description: Grant ASLAN, co-PI, 229 916 euros
 img: assets/img/aslan.png
 importance: 2
 category: ongoing
@@ -9,7 +9,7 @@ category: ongoing
 
 Role: Principal Investigator (with J-P Magué)
 
-Multi-agent models and social media data: Collective dynamics and individual trajectories in linguistic populations.
+Title: Multi-agent models and social media data: Collective dynamics and individual trajectories in linguistic populations.
 
 The goal of this project (2021-2024) is to study the interaction between individual and collective levels of language variation and change in Twitter and Wikipedia data using Bayesian agent-based models.
 
