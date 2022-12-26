@@ -2,11 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Marc Allassonnière-Tang
     - name: Languages
-      value: English, German
+      value: French, Mandarin, English, Arabic, Swedish
 
 - title: Education
   type: time_table
@@ -90,8 +88,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
