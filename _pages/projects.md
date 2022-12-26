@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page summarises the research projects I am currently working on and those that I have joined in the past.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [ongoing, past]
 horizontal: false
 ---
 
