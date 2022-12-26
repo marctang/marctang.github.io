@@ -4,7 +4,7 @@ title: EVOGRAM
 description: Grant ANR-20-CE27-0021, 166 936 euros
 img: assets/img/anr.jpg
 importance: 1
-category: ongoing
+category: work
 ---
 
 Role: Principal Investigator
