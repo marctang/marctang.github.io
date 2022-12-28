@@ -69,7 +69,7 @@ nav_order: 5
   <p>
   <figcaption>Presentation at ICHoLS XIV, Paris 2018. A history of the conceptions of numeral classifiers in Mandarin Chinese</figcaption>
   <img src="/assets/img/ichols_Paris.jpg"
-    width="400" height="315"
+    width="315" height="315"
     alt="figure">
   </p>
 
