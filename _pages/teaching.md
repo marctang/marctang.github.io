@@ -34,16 +34,16 @@ Instructor for two teaching sessions. The participants (students and researchers
 [AN INTRODUCTION TO MIXED MODELS](http://www.ddl.cnrs.fr/Info/Index.asp?Langue=FR&Page=Agenda&Jour=21&Mois=6&Annee=2021) ([3h], Lab Dynamics of Language, 2021)  
 Instructor for a 3-week introduction to (generalized) linear mixed models. The participants (students and researchers) learned, discussed, and practiced how to conduct and interpret the analysis of mixed models on language acquisition data. The analysis included topics such as interpreting fixed and random effects.
 
-[QUANTITATIVE TYPOLOGY OF LINGUISTIC CORPORA](https://www.univ-lyon2.fr/medias/fichier/lesla-master-sciences-du-langage-langues-langages-et-enjeux-societaux-web_1580209073106-pdf) (Postgraduate module [3h], University Lyon 2/ Sorbonne University, 2021/ 2022)  
+[QUANTITATIVE TYPOLOGY OF LINGUISTIC CORPORA](https://www.univ-lyon2.fr/medias/fichier/lesla-master-sciences-du-langage-langues-langages-et-enjeux-societaux-web_1580209073106-pdf) ([3h], University Lyon 2/ Sorbonne University, 2021/ 2022)  
 Instructor for a teaching session on the use of corpora in linguistic research.The participants were taught how to build corpora based on raw data (involving recordings and/or transcriptions) and how to conduct basic analyses  (involving data visualization and statistical analyses) on these corpora.
 
 [A STATISTICAL ANALYSIS OF THE MORPHOLOGY-SYNTAX DISTINCTION](http://www.ddl.cnrs.fr/Info/Index.asp?Langue=FR&Page=Agenda&Jour=6&Mois=3&Annee=2020) ([3h], Lab Dynamics of Language, 2020)  
 Instructor for a 3-hour session introduction to generalized linear mixed models and tree-based computational classifiers. The participants (researchers) learned how to conduct automatic labelling of words, clitics, and affixes with machine learning methods such as generalized linear mixed models and decision-tree classifiers.
 
-[FIELDWORK SESSIONS WITH NATIVE SPEAKERS](https://fieldling.sciencesconf.org/) (Summer school module [15h], INALCO/ Sorbonne University, 2019)  
+[FIELDWORK SESSIONS WITH NATIVE SPEAKERS](https://fieldling.sciencesconf.org/) ([15h], INALCO/ Sorbonne University, 2019)  
 Instructor in charge of the full course (15h). During a week, students have 2 hours each day to conduct fieldwork with the native speaker of a language they do not speak. The students are given specific tasks for the course (e.g., identify the word order patterns of the language) and have to present their results at the end.
 
-[AN INTRODUCTION TO RANDOM FORESTS](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf)  (Postgraduate module [5h], Uppsala University, 2018)  
+[AN INTRODUCTION TO RANDOM FORESTS](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf)  ([5h], Uppsala University, 2018)  
 Instructor for 90-minute sessions introducing the use of the computational classifier of random forests in linguistics. The teaching modules were taught to an audience without previous experience in programming and provided the participants the skills to perform the test of random forests on a provided linguistic dataset.
 
 &nbsp;
