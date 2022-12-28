@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-## CERTIFICATION
+> CERTIFICATION
 
 
 ### In FRANCE
@@ -30,7 +30,7 @@ The course analyses different forms of assessment/examination. Summative (end of
 
 
 
-## TEACHING MODULES
+> TEACHING MODULES
 
 [LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], Spring 2022)  
 Instructor for two teaching sessions. The participants (students and researchers) learned and discussed how to conduct linguistic analyses on corpus data. These sessions are included in the summer school 'Linguistics, sociolinguistics, and ethnolinguistics' of the Muséum National d'Histoire Naturelle in Paris.
@@ -52,7 +52,7 @@ Instructor for 90-minute sessions introducing the use of the computational class
 
 
 
-## COURSES
+> COURSES
 
 [CURRENT RESEARCH IN LINGUISTICS](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39057&type=1) (Undergraduate course [30h], Spring term 2019)  
 Instructor in charge of the full course. The students are taught how to 1) write simple computer programmes using the R language to analyse, visualise, and process data 2) use appropriate methods to cluster data, to measure similarity between linguistic variables, and to test causal hypotheses.
