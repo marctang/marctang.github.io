@@ -23,7 +23,8 @@ The course included different supervisory styles, psychological and social aspec
 [ASSESSMENT, GRADING AND FEEDBACK](https://www.marctang.info/_files/ugd/3a591c_66df68886e9b4cdfb51970af62e7e766.pdf) (SWEDEN, Uppsala University, one full-time work week).  
 The course analyses different forms of assessment/examination. Summative (end of course) and formative (during the course) methods are discussed along with various forms of formative practices to use generate feedback from the students.
 
-
+&nbsp;
+&nbsp;
 
 ### TEACHING MODULES
 
@@ -45,7 +46,8 @@ Instructor in charge of the full course (15h). During a week, students have 2 ho
 [AN INTRODUCTION TO RANDOM FORESTS](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf)  (Postgraduate module [5h], Uppsala University, 2018)  
 Instructor for 90-minute sessions introducing the use of the computational classifier of random forests in linguistics. The teaching modules were taught to an audience without previous experience in programming and provided the participants the skills to perform the test of random forests on a provided linguistic dataset.
 
-
+&nbsp;
+&nbsp;
 
 ### COURSES
 
@@ -58,7 +60,8 @@ Instructor in charge of the full course. This course provides basic theoretic
 [VISUALISATION AND STATISTICS](https://github.com/marctang/VisStat-HT18) (Postgraduate course [30h], Uppsala University, 2018)  
 Instructor for weekly two-hour lab sessions of R programming in data visualisation an statistical analysis. The teaching content involved basic commands in R, data cleaning and reformatting, multidimensional scaling of data and basic statistical analyses.
 
-
+&nbsp;
+&nbsp;
 
 ### LANGUAGE COURSES
 
