@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>Museum of Natural History</a>, French National Centre for Scientific Research
+subtitle: Researcher at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>National Museum of Natural History</a>, French National Centre for Scientific Research
 
 profile:
   align: right

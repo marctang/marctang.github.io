@@ -10,10 +10,10 @@ nav_order: 4
 
 ### CERTIFICATION
 
-​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU).
+​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU).  
 
-[ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU).
-​
+[ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU).  
+
 [ACADEMIC TEACHER TRAINING COURSE](https://www.marctang.info/_files/ugd/3a591c_4341e0961b4a4782b6787105b3f0640b.pdf) (SWEDEN, Uppsala University, five full-time work weeks).  
 The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
 
@@ -27,7 +27,7 @@ The course analyses different forms of assessment/examination. Summative (end of
 
 ### TEACHING MODULES
 
-[LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], Museum of Natural History, 2022)  
+[LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], National Museum of Natural History, 2022)  
 Instructor for two teaching sessions. The participants (students and researchers) learned and discussed how to conduct linguistic analyses on corpus data. These sessions are included in the summer school 'Linguistics, sociolinguistics, and ethnolinguistics' of the Muséum National d'Histoire Naturelle in Paris.
 
 [AN INTRODUCTION TO MIXED MODELS](http://www.ddl.cnrs.fr/Info/Index.asp?Langue=FR&Page=Agenda&Jour=21&Mois=6&Annee=2021) ([3h], Lab Dynamics of Language, 2021)  
