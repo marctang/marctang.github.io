@@ -9,11 +9,18 @@ nav_order: 5
 
 
   <p><img src="/assets/img/aslan.png"
-    width="136" height="200"
-    alt="Eiffel tower">
-  <figcaption>Scale model of the
-    Eiffel tower in
-    Parc Mini-France</figcaption>
+    width="700" height="350"
+    alt="figure">
+  <figcaption>test</figcaption>
+  </p>
+
+  <p>
+  <figcaption>test</figcaption>
+  <img src="/assets/img/aslan.png"
+    width="700" height="350"
+    alt="figure">
+  
+  </p>
 
 
 <div class="image">
