@@ -7,7 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-<div align="justify">
 
 ### CERTIFICATION
 
@@ -69,4 +68,4 @@ Instructor for weekly two-hour lab sessions of R programming in data visualisati
 [FRENCH](https://ciel.com.tw/) (High school/University level [2500h], Chinese Institute of European Languages, 2013 - 2015)  
 Instructor for group courses between A1 and C2 at the Chinese Institute of European Languages. The teaching load was 30 hours/week and the content involved conversation, writing, grammar courses, and preparation for the DELF diplomas. Teaching materials included but were not limited to CIEL1-6, Tempo1, Tempo2, Alter Ego3.
 
-</div>
+
