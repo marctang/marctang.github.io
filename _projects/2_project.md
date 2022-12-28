@@ -3,6 +3,7 @@ layout: page
 title: MACDIT
 description: Grant ASLAN, co-PI, 229 916 euros
 img: assets/img/aslan.png
+redirect: https://aslan.universite-lyon.fr/projet-macdit-231683.kjsp?RH=1525438355903
 importance: 2
 category: ongoing
 ---
