@@ -3,6 +3,7 @@ layout: page
 title: EVOGRAM
 description: Grant ANR-20-CE27-0021, PI, 166 936 euros
 img: assets/img/anr.png
+redirect: https://anr.fr/Project-ANR-20-CE27-0021
 importance: 1
 category: ongoing
 ---
