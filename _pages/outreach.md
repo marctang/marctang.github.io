@@ -8,10 +8,19 @@ nav_order: 5
 ---
 
 
-![](assets/img/aslan.png)
+<figure>
+  <p><img src="assets/img/aslan.png"
+    width="136" height="200"
+    alt="Eiffel tower">
+  <figcaption>Scale model of the
+    Eiffel tower in
+    Parc Mini-France</figcaption>
+</figure>
+
+![]("assets/img/aslan.png")
 *image_caption*
 
-![test](assets/img/aslan.png)
+![test]("assets/img/aslan.png")
 *image_caption*
 
 <p>
