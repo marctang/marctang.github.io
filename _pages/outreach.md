@@ -6,7 +6,19 @@ description: Some pictures and videos
 nav: true
 nav_order: 5
 ---
-    	
+
+
+![](assets/img/aslan.png)
+*image_caption*
+
+![test](assets/img/aslan.png)
+*image_caption*
+
+<p>
+    <img src="assets/img/aslan.png" alt>
+    <em>image_caption</em>
+</p>
+
 <div class="image">
 text
         {% include figure.html path="assets/img/aslan.png" class="img-fluid rounded z-depth-1" zoomable=false %}
