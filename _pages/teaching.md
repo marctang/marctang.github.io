@@ -17,10 +17,10 @@ nav_order: 4
 [ACADEMIC TEACHER TRAINING COURSE](/assets/pdf/TrainingCourse.pdf) (SWEDEN, Uppsala University, five full-time work weeks).  
 The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
 
-[SUPERVISING STUDENTS FOR DEGREE PROJECT](https://www.marctang.info/_files/ugd/3a591c_e55804d4dbba4e0288784ea30ef4f38c.pdf) (SWEDEN, Uppsala University, two full-time work weeks).  
+[SUPERVISING STUDENTS FOR DEGREE PROJECT](/assets/pdf/Supervising.pdf) (SWEDEN, Uppsala University, two full-time work weeks).  
 The course included different supervisory styles, psychological and social aspects of supervision, conversation skills in supervision, conflict management, diversity-and-gender awareness, and evaluation of degree projects.
 
-[ASSESSMENT, GRADING AND FEEDBACK](https://www.marctang.info/_files/ugd/3a591c_66df68886e9b4cdfb51970af62e7e766.pdf) (SWEDEN, Uppsala University, one full-time work week).  
+[ASSESSMENT, GRADING AND FEEDBACK](/assets/pdf/Grading.pdf) (SWEDEN, Uppsala University, one full-time work week).  
 The course analyses different forms of assessment/examination. Summative (end of course) and formative (during the course) methods are discussed along with various forms of formative practices to use generate feedback from the students.
 
 &nbsp;
