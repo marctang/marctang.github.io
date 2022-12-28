@@ -5,7 +5,7 @@ permalink: /
 subtitle: Researcher at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>National Museum of Natural History</a>, French National Centre for Scientific Research
 
 profile:
-  align: justify
+  align: right
   image: prof_pic2.png
   image_circular: false # crops the image to make it circular
 #  address: >
