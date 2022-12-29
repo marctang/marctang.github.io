@@ -8,6 +8,10 @@ nav_order: 5
 ---
 
 
+  <p>
+  <figcaption>The contribution of collaborative data to linguistic exploration: a matter of phonetic typology.  Wikimédia France/ INALCO, 2022. </figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J4cEFFpZmuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
   <p>
   <figcaption>Fête de la Science, CNRS Lyon, France, 2020. Photo credit: Vincent Noclin, University of Lyon.</figcaption>
@@ -17,8 +21,8 @@ nav_order: 5
   </p>
 
   <p>
-  <figcaption>The contribution of collaborative data to linguistic exploration: a matter of phonetic typology.  Wikimédia France/ INALCO, 2022. </figcaption> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/J4cEFFpZmuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Phonetic analysis of diatopic variation. Labex EFL, Paris, France, 2020</figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/H6nMUK6U5ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
   <p>
@@ -26,30 +30,6 @@ nav_order: 5
   <img src="/assets/img/fieldwork_france.jpg"
     width="600" height="350"
     alt="figure">
-  </p>
-
-  <p>
-  <figcaption>Research of the month. Language Bank of Finland, 2018</figcaption>
-  <img src="/assets/img/uppsala_finland.png"
-    width="700" height="350"
-    alt="figure">
-  </p>
-
-  <p>
-  <figcaption>Phonetic analysis of diatopic variation. Labex EFL, Paris, France, 2020</figcaption> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/H6nMUK6U5ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
-
-  <p>
-  <figcaption>Promote research to high schools. Faculty of Languages, Uppsala University, 2018</figcaption>
-  <img src="/assets/img/uppsala_high_schools.jpg"
-    width="700" height="350"
-    alt="figure">
-  </p>
-
-  <p>
-  <figcaption>Interviewee at ICHoLS XIV 2018 in Paris for the promotion of linguistics</figcaption> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/woIetu1LTxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
   <p>
@@ -63,6 +43,25 @@ nav_order: 5
   <figcaption>Presentation at the SLE, Leipzig 2019. The evolutionary trends of grammatical gender</figcaption>
   <img src="/assets/img/conference_sle.jpg"
     width="400" height="315"
+    alt="figure">
+  </p>
+
+  <p>
+  <figcaption>Interviewee at ICHoLS XIV 2018 in Paris for the promotion of linguistics</figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/woIetu1LTxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  
+  <p>
+  <figcaption>Promote research to high schools. Faculty of Languages, Uppsala University, 2018</figcaption>
+  <img src="/assets/img/uppsala_high_schools.jpg"
+    width="700" height="350"
+    alt="figure">
+  </p>
+
+  <p>
+  <figcaption>Research of the month. Language Bank of Finland, 2018</figcaption>
+  <img src="/assets/img/uppsala_finland.png"
+    width="700" height="350"
     alt="figure">
   </p>
 
