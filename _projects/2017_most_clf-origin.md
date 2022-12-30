@@ -4,7 +4,7 @@ title: THE ORIGIN OF CLASSIFIERS
 description: Grant MOST106-2410-H-004-106-MY3 (2017-2019), Invited expert, 110 591 euros
 img: assets/img/most.png
 redirect: http://www3.nccu.edu.tw/~osh/g.html
-importance: 1
+importance: 2017
 category: past
 ---
 

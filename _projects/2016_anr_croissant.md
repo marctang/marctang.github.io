@@ -4,7 +4,7 @@ title: LES PARLERS DU CROISSANT
 description: Grant ANR-17-CE27-0001-01 (2016-2022), Invited expert, 250 486 euros
 img: assets/img/anr.png
 redirect: http://parlersducroissant.huma-num.fr/projet.html
-importance: 1
+importance: 2016
 category: past
 ---
 

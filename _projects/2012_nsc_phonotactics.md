@@ -4,7 +4,7 @@ title: PHONOTACTIC CONSTRAINTS
 description: Grant NSC102-2410-H004-080 (2012-2014), Research assistant, 56 100 euros
 img: assets/img/nsc.png
 redirect: http://nccur.lib.nccu.edu.tw/handle/140.119/85855
-importance: 1
+importance: 2012
 category: past
 ---
 

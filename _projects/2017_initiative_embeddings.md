@@ -4,7 +4,7 @@ title: PRINCIPAL WORD EMBEDDING
 description: Non-funded cooperative initiative (2016-2019), Analyst
 img: assets/img/embeddings.png
 redirect: https://www.marctang.info/_files/ugd/3a591c_b5ce5f4a090647e18146582d2319c3c2.pdf
-importance: 1
+importance: 2017
 category: past
 ---
 

@@ -4,7 +4,7 @@ title: GIS FOR LANGUAGE STUDY
 description: Funded research environment (2017-2019), Coordinator, 7 000 euros
 img: assets/img/uppsala.png
 redirect: https://www.nordiska.uu.se/forskning/projekt/tidigare-projekt/gis-for-language-study
-importance: 1
+importance: 2017
 category: past
 ---
 

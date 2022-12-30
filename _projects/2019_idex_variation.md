@@ -4,7 +4,7 @@ title: VARIATION, CHANGE AND COMPLEXITY IN LINGUISTIC AND HEALTH-RELATED BEHAVIO
 description: Grant 16-IDEX-0005 (2018-2021), Postdoctoral researcher, 1 200 000 euros
 img: assets/img/ddl.png
 redirect: http://www.ddl.cnrs.fr/equipes/index.asp?Langue=EN&Equipe=8&Page=Action&ActionNum=174&
-importance: 1
+importance: 2019
 category: past
 ---
 

@@ -4,7 +4,7 @@ title: FIELDLING
 description: Funded yearly international school in linguistic fieldwork, Co-organizer
 img: assets/img/fieldling.png
 redirect: https://fieldling.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en
-importance: 3
+importance: 2019
 category: ongoing
 ---
 

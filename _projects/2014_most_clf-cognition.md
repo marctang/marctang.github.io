@@ -4,7 +4,7 @@ title: CLASSIFIERS AND COGNITION
 description: Grant MOST103-2410-H004-136-MY (2014-2017), Research assistant, 107 693 euros
 img: assets/img/most.png
 redirect: https://ah.nccu.edu.tw/bitstream/140.119/117415/1/103-2410-H-004-136-MY3.pdf
-importance: 1
+importance: 2014
 category: past
 ---
 

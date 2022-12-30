@@ -4,7 +4,7 @@ title: RELI
 description: Grant ASLAN, co-PI, 8 000 euros
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/recherche-en-linguistique-illustree/recherche-en-linguistique-illustree-218889.kjsp
-importance: 4
+importance: 2020
 category: ongoing
 ---
 
