@@ -6,7 +6,7 @@ description: This page summarises the research projects I am currently working 
 nav: true
 nav_order: 2
 display_categories: [ongoing, past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
