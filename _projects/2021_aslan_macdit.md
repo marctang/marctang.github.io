@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MACDIT
-description:  Multi-agent models and social media data: Collective dynamics and individual trajectories in linguistic populations. Grant ASLAN (2021-2024), co-PI, 229 916 euros. The goal of this project is to study the interaction between individual and collective levels of language variation and change in Twitter and Wikipedia data using Bayesian agent-based models.
+title: MACDIT, Multi-agent models and social media data - Collective dynamics and individual trajectories in linguistic populations.
+description: Grant ASLAN (2021-2024), co-PI, 229 916 euros. The goal of this project is to study the interaction between individual and collective levels of language variation and change in Twitter and Wikipedia data using Bayesian agent-based models.
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/projet-macdit-231683.kjsp?RH=1525438355903
 importance: 2021
