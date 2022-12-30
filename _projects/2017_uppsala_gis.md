@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GIS FOR LINGUISTICS
+title: GIS USED IN LINGUISTICS
 description: Funded research environment (2017-2019), Coordinator, 7 000 euros
 img: assets/img/uppsala.png
 redirect: https://www.nordiska.uu.se/forskning/projekt/tidigare-projekt/gis-for-language-study
