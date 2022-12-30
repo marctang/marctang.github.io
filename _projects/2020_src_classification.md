@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WHAT UNDERLIES LINGUISTIC CLASSIFICATION?
+title: GENDER AND CLASSIFIERS
 description: Grant VR-2019-02967 (2020-2022), Invited expert, 332 320 euros
 img: assets/img/SRC.png
 redirect: https://projekt.ht.lu.se/linguisticgender/
