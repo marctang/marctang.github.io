@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EVOGRAM, The role of linguistic and non-linguistic factors in the evolution of nominal classification systems
-description: Grant ANR-20-CE27-0021 (2021-2023), PI, 166 936 euros. This project aims at building a database on nominal classification systems to identify the factors affecting their evolution.
+title: The role of linguistic and non-linguistic factors in the evolution of nominal classification systems
+description: Grant ANR-20-CE27-0021 (2021-2023), PI, 166 936 euros.
 img: assets/img/anr.png
 redirect: https://anr.fr/Project-ANR-20-CE27-0021
 importance: 2021
