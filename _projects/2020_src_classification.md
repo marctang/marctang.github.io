@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GENDER AND CLASSIFIERS
-description: Grant VR-2019-02967 (2020-2022), Invited expert, 332 320 euros
+title: GENDER AND CLASSIFIERS, What underlies linguistic classification?
+description: Grant VR-2019-02967 (2020-2022), Invited expert, 332 320 euros. This project of Gerd Carling (Lund University) aims at investigating gender assignment, stability, and change from a cross-linguistic, historical, and cultural evolutionary perspective.
 img: assets/img/SRC.png
 redirect: https://projekt.ht.lu.se/linguisticgender/
 importance: 2020

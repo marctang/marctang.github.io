@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VARIATION AND COMPLEXITY
-description: Grant 16-IDEX-0005 (2018-2021), Postdoctoral researcher, 1 200 000 euros
+title: VARIATION AND COMPLEXITY, Variation, change and complexity in linguistic and health-related behaviours
+description: Grant 16-IDEX-0005 (2018-2021), Postdoctoral researcher, 1 200 000 euros. This project of Dan Dediu investigates how is the variation in the infrastructure of language and speech patterned between individuals and groups and how does it affect linguistic diversity.
 img: assets/img/ddl.png
 redirect: http://www.ddl.cnrs.fr/equipes/index.asp?Langue=EN&Equipe=8&Page=Action&ActionNum=174&
 importance: 2019

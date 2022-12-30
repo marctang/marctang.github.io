@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PRINCIPAL WORD EMBEDDING
-description: Non-funded cooperative initiative (2016-2019), Analyst
+description: Non-funded cooperative initiative (2016-2019), Analyst. Natural language processing has been highly influenced by deep learning and continuous representation of words known as word vectors. This project uses principal component analysis to improve the efficiency of word vectors extraction from both raw and annotated corpora of languages such as French, Swedish, and Swahili.
 img: assets/img/embeddings.png
 redirect: https://www.marctang.info/_files/ugd/3a591c_b5ce5f4a090647e18146582d2319c3c2.pdf
 importance: 2017
