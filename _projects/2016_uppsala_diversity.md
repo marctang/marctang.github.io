@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LINGUISTIC DIVERSITY
-description: Grant UFV-PA 2016/536 (2016-2019), PhD student, 77 000 euros. This thesis under the supervision of Michael Dunn (Uppsala University) and Christine Lamarre (INALCO) uses functional analyses and computational methods to address the lack of arbitrariness of nominal classification systems in terms of synchronic statistical universals and diachronic language evolution.
+title: Linguistic diversity
+description: Grant UFV-PA 2016/536 (2016-2019), PhD student, 77 000 euros.
 img: assets/img/uppsala.png
 redirect: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1265009&dswid=-8546
 importance: 2016

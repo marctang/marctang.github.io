@@ -1,7 +1,7 @@
 ---
 layout: page
-title: THE ORIGIN OF CLASSIFIERS, Numeral Classifiers in the World's Languages - A Single Origin Hypothesis
-description: Grant MOST106-2410-H-004-106-MY3 (2017-2019), Invited expert, 110 591 euros. This project of One-Soon Her (NCCU) investigates the diachronic development of classifiers in languages of the world by evaluating the likelihood of various existing hypotheses through qualitative syntactic analyses and phylogenetic methods.
+title: Numeral Classifiers in the World's Languages - A Single Origin Hypothesis
+description: Grant MOST106-2410-H-004-106-MY3 (2017-2019), Invited expert, 110 591 euros.
 img: assets/img/most.png
 redirect: http://www3.nccu.edu.tw/~osh/g.html
 importance: 2017

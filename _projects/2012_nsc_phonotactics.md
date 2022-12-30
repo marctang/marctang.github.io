@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PHONOTACTIC CONSTRAINTS
-description: Grant NSC102-2410-H004-080 (2012-2014), Research assistant, 56 100 euros
+title: 	Phonotactic constraints and universal constraints in syllable contraction of five Chinese dialects
+description: Grant NSC102-2410-H004-080 (2012-2014), Research assistant, 56 100 euros.
 img: assets/img/nsc.png
 redirect: http://nccur.lib.nccu.edu.tw/handle/140.119/85855
 importance: 2012

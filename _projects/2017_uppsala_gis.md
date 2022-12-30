@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GIS USED IN LINGUISTICS, GIS for language study
-description: Funded research environment (2017-2019), Coordinator, 7 000 euros. This project with Alexandra Petrulevich (Uppsala University) undertakes a series of seminars and workshops to explore the analytical tools provided by Geographic Information Systems such as QGIS, thereby giving the faculty's research on location-based materials a lift.
+title: GIS for language study
+description: Funded research environment (2017-2019), Coordinator, 7 000 euros.
 img: assets/img/uppsala.png
 redirect: https://www.nordiska.uu.se/forskning/projekt/tidigare-projekt/gis-for-language-study
 importance: 2017

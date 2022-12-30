@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NUMERALS AND CLASSIFIERS
-description: Grant MOST104-2410-H004-164-MY3 (2015-2018), Analyst, 98 457 euros
+title: A typological study of numeral bases and numeral classifiers in Indo-European and other European languages
+description: Grant MOST104-2410-H004-164-MY3 (2015-2018), Analyst, 98 457 euros.
 img: assets/img/most.png
 redirect: http://www3.nccu.edu.tw/~osh/g.html
 importance: 2015

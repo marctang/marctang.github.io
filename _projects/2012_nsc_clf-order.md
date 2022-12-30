@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WORD ORDER OF CLASSIFIERS
-description: Grant NSC101-2410-H004-184-MY3 (2012-2015), Research assistant, 53 122 euros
+title: Numerals and numeral classifiers - A typological study of word orders and structures in the world's languages
+description: Grant NSC101-2410-H004-184-MY3 (2012-2015), Research assistant, 53 122 euros.
 img: assets/img/nsc.png
 redirect: https://ah.nccu.edu.tw/item?item_id=86418
 importance: 2012
