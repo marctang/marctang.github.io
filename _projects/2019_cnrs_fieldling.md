@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FIELDLING
-description: Funded yearly international school in linguistic fieldwork, Co-organizer
+description: Funded yearly international school in linguistic fieldwork (2010 - ongoing), Co-organizer
 img: assets/img/fieldling.png
 redirect: https://fieldling.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en
 importance: 2019
