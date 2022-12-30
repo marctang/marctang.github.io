@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: LES PARLERS DU CROISSANT
+description: Grant ANR-17-CE27-0001-01 (2016-2022), Invited expert, 250 486 euros
+img: assets/img/anr.png
+redirect: http://parlersducroissant.huma-num.fr/projet.html
+importance: 1
 category: past
 ---
+
+This project (2016-2022) of Nicolas Quint (LLACAN) aims at providing a multidisciplinary approach (linguistics, sociolinguistics, psycholinguistics, computational linguistics, among others) to endangered local varieties of Oïl and Occitan on the Northern Fringe of the Massif Central in France.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

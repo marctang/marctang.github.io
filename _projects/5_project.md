@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: WHAT UNDERLIES LINGUISTIC CLASSIFICATION?
+description: Grant VR-2019-02967 (2020-2022), Invited expert, 332 320 euros
+img: assets/img/SRC.png
+redirect: https://projekt.ht.lu.se/linguisticgender/
+importance: 1
 category: past
 ---
+
+This project (2020-2022) of Gerd Carling (Lund University) aims at investigating gender assignment, stability, and change from a cross-linguistic, historical, and cultural evolutionary perspective.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
