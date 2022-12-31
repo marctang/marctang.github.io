@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multi-agent models and social media data - Collective dynamics and individual trajectories in linguistic populations
-description: Grant ASLAN (2021-2024), co-PI, 229 916 euros.
+title: Grant ASLAN (2021-2024), co-PI, 229 916 euros
+description: Multi-agent models and social media data - Collective dynamics and individual trajectories in linguistic populations.
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/projet-macdit-231683.kjsp?RH=1525438355903
 importance: 2021
