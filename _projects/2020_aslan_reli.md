@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RELI, Research In Linguistics Illustrated (valorization of science)
-description: Grant ASLAN (2020-2023), co-PI, 8 000 euros.
+description: Grant ASLAN (2020 - 2023), co-PI, 8 000 euros.
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/recherche-en-linguistique-illustree/recherche-en-linguistique-illustree-218889.kjsp
 importance: 2020

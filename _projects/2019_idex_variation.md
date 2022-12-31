@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Variation, change and complexity in linguistics
-description: Grant 16-IDEX-0005 (2018-2021), Postdoctoral researcher, 1 200 000 euros.
+description: Grant 16-IDEX-0005 (2018 - 2021), Postdoctoral researcher, 1 200 000 euros.
 img: assets/img/ddl.png
 redirect: http://www.ddl.cnrs.fr/equipes/index.asp?Langue=EN&Equipe=8&Page=Action&ActionNum=174&
 importance: 2019

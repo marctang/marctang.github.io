@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linguistic diversity
-description: Grant UFV-PA 2016/536 (2016-2019), PhD student, 77 000 euros.
+description: Grant UFV-PA 2016/536 (2016 - 2019), PhD student, 77 000 euros.
 img: assets/img/uppsala.png
 redirect: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1265009&dswid=-8546
 importance: 2016.6
