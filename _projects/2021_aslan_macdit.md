@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-agent models and social media - Collective dynamics and individual trajectories
+title: Multi-agent models and social media - Collective and individual dynamics
 description: Grant ASLAN (2021-2024), co-PI, 229 916 euros.
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/projet-macdit-231683.kjsp?RH=1525438355903
