@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>National Museum of Natural History</a>, French National Centre for Scientific Research
+subtitle: CNRS researcher of the EA (Ecological Anthropology, UMR 7206) lab at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>National Museum of Natural History</a> (MNHN) in Paris.
 
 profile:
   align: right
@@ -17,8 +17,6 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-THIS WEBSITE IS UNDER CONSTRUCTION
 
 My academic background is in general linguistics, including topics such as syntax and phonology. I worked in the computer industry (ASUS) before coming back to academia. I developed along the way (and I am also still developing) skills in quantitative computational typology and in linguistics to investigate and/or develop existing linguistic hypotheses in terms of synchrony and diachrony. 
 
