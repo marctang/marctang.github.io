@@ -506,6 +506,7 @@ E.g. assuming your website mountpoint is the main folder, you can type `youruser
 - added in bib.html '{% assign book = "book" | split: ','%}' and ifelse below to show the publisher name for books
 - use mogrify -resize 800x533! aslan.png to resize the project images so that they have the same size
 - in the layout html files, can add in the div at the top the following for justifying text: ; align = "justify"
+- added the google verification tag in includes/head_html
 
 ### Maintainers
 
