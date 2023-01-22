@@ -507,6 +507,7 @@ E.g. assuming your website mountpoint is the main folder, you can type `youruser
 - use mogrify -resize 800x533! aslan.png to resize the project images so that they have the same size
 - in the layout html files, can add in the div at the top the following for justifying text: ; align = "justify"
 - added the google verification tag in includes/head_html
+- to change size for the publication preview figures, go to sass/base.scss and change the width at .preview
 
 ### Maintainers
 
