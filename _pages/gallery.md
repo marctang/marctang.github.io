@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+  <p>
+  <figcaption>The Master's Tools Will Never Dismantle the Master's House. Présentation d'un projet structuré d'épicénisation du français pensé comme outil de rupture épistémologique. Conference <a href='https://femmecategories.sciencesconf.org/'>Qu'est-ce qu'une femme?</a> Maison des Sciences de l’Homme ange-guépin/ Nantes Université, 2022. </figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UPDQS-yPlhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </p>
+
 
   <p>
   <figcaption>The contribution of collaborative data to linguistic exploration: a matter of phonetic typology.  Wikimédia France/ INALCO, 2022. </figcaption> 
