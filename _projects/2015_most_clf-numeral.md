@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Numeral bases and classifiers in Indo-European languages
+title: Bases and classifiers in Indo-European languages
 description: Grant MOST104-2410-H004-164-MY3 (2015 - 2018), Analyst, 98 457 euros.
 img: assets/img/most.png
 redirect: http://www3.nccu.edu.tw/~osh/g.html
