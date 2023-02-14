@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Word order of numerals and numeral classifiers in the world's languages
+title: Word order of numerals and classifiers worldwide
 description: Grant NSC101-2410-H004-184-MY3 (2012 - 2015), Research assistant, 53 122 euros.
 img: assets/img/nsc.png
 redirect: https://ah.nccu.edu.tw/item?item_id=86418

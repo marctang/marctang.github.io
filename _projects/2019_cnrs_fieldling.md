@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FIELDLING, International School in Linguistic Fieldwork
+title: International School in Linguistic Fieldwork
 description: Funded yearly international school in linguistic fieldwork (2010 - ongoing), Co-organizer.
 img: assets/img/fieldling.png
 redirect: https://fieldling.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en

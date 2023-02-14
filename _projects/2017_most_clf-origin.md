@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Numeral Classifiers in the World's Languages - A Single Origin Hypothesis
+title: A Single Origin Hypothesis to numeral classifiers
 description: Grant MOST106-2410-H-004-106-MY3 (2017 - 2019), Analyst, 110 591 euros.
 img: assets/img/most.png
 redirect: http://www3.nccu.edu.tw/~osh/g.html

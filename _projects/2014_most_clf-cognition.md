@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  The cognitive mechanism and neural correlates of numeral classifiers 
+title:  Cognitive mechanisms and neural correlates of classifiers 
 description: Grant MOST103-2410-H004-136-MY3 (2014 - 2017), Research assistant, 107 693 euros.
 img: assets/img/most.png
 redirect: https://ah.nccu.edu.tw/bitstream/140.119/117415/1/103-2410-H-004-136-MY3.pdf

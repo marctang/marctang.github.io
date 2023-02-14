@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linguistic and non-linguistic factors in the evolution of nominal classification
+title: Factors influencing the evolution of nominal classification
 description: Grant ANR-20-CE27-0021 (2021 - 2023), PI, 166 936 euros.
 img: assets/img/anr.png
 redirect: https://anr.fr/Project-ANR-20-CE27-0021
