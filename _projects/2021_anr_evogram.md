@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Factors in the evolution of nominal classification
-description: Grant ANR-20-CE27-0021 (2021 - 2023), PI, 166 936 euros.
+description: Grant ANR-20-CE27-0021 (2021 - 2023), Principal investigator, 166 936 euros.
 img: assets/img/anr.png
 redirect: https://anr.fr/Project-ANR-20-CE27-0021
 importance: 2021
