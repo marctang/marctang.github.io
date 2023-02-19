@@ -276,7 +276,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 sort_by: year, month
 order: descending, descending
-type_order: [article, inproceedings, incollection, book]
+type_order: [article, incollection, inproceedings, book]
 type_names: {article: journal articles, inproceedings: conference proceedings, incollection: book chapter, book: book}
 
 
