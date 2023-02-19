@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 
-{% bibliography_count -f references %}
+{% bibliography_count -f papers --query @article[year >= 2017] %}
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
