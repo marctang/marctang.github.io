@@ -277,7 +277,7 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 sort_by: year, month
 order: descending, descending
 type_order: [article, incollection, inproceedings, book]
-type_names: {article: journal articles, inproceedings: conference proceedings, incollection: book chapter, book: book}
+type_names: {article: journal articles, incollection: book chapter, inproceedings: conference proceedings, book: book}
 
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
