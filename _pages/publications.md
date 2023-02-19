@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 {%- for y in page.years %}
-  <h2 class="type">{{y}}</h2>
+  <h2 class="type"></h2>
   {% bibliography --template bib --group_by type,year --group_order ascending,descending %}
 {% endfor %} 
  
