@@ -12,6 +12,9 @@ nav_order: 1
 
 
 Total number of articles = {% bibliography_count -f papers --query @article[year >= 2017] %}
+Total number of book chapters = {% bibliography_count -f papers --query @incollection[year >= 2017] %}
+Total number of proceedings = {% bibliography_count -f papers --query @inproceedings[year >= 2017] %}
+Total number of book = {% bibliography_count -f papers --query @book[year >= 2017] %}
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
