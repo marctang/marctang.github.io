@@ -274,6 +274,11 @@ scholar:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+sort_by: year, month
+order: descending, descending
+type_order: [article, inproceedings, incollection, book]
+type_names: {article: journal articles, inproceedings: conference proceedings, incollection: book chapter, book: book}
+
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3  # leave blank to always show all authors
