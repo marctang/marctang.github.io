@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This page summarises the research projects I am currently working on and those that I have joined in the past.
+description: 
 nav: true
 nav_order: 2
 display_categories: [ongoing, past]
 horizontal: false
 ---
+
+This page summarises the research projects I am currently working on and those that I have joined in the past.
 
 <!-- pages/projects.md -->
 <div class="projects">
