@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CNRS researcher at the Ecological Anthropology lab (UMR 7206), <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>National Museum of Natural History</a> in Paris. Also associated with the <a href='http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Marc%20TANG'>Dynamics of Language lab</a> (UMR 5596) in Lyon.
+subtitle: CNRS researcher at the <a href='https://www.ecoanthropologie.fr/fr/annuaire/allassonniere-tang-marc-9269'>Ecological Anthropology lab (UMR 7206), National Museum of Natural History</a> in Paris. Also associated with the <a href='http://www.ddl.cnrs.fr/Annuaires/Index.asp?Langue=FR&Page=Marc%20TANG'>Dynamics of Language lab</a> (UMR 5596) in Lyon.
 
 profile:
   align: right
