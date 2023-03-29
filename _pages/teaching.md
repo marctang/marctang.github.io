@@ -29,7 +29,7 @@ The course analyses different forms of assessment/examination. Summative (end of
 ### TEACHING MODULES
 
 LANGUAGE AND TECHNOLOGY ([4h], National ChengChi University, 2023)  
-Instructor for two teaching sessions about the use of language technology in academia and industry. The talks included topics such as machine learning, deep learning, and reinforced learning. These sessions are included in the general education course 'Language and World Civilization'.
+Instructor for two teaching sessions about the use of language technology in academia and industry. The talks included topics such as machine learning, deep learning, and reinforced learning. These sessions are included in the general education course 'Language and World Civilization'. 
 
 [LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], National Museum of Natural History, 2022)  
 Instructor for two teaching sessions. The participants (students and researchers) learned and discussed how to conduct linguistic analyses on corpus data. These sessions are included in the summer school 'Linguistics, sociolinguistics, and ethnolinguistics' of the Muséum National d'Histoire Naturelle in Paris.
