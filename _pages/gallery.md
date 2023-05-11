@@ -18,6 +18,10 @@ nav_order: 5
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UkItEE0LekA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </p>
   
+  <p>
+  <figcaption>Rock climbing in Paris promotion video. </figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1BYmCV1iACY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </p>
 
   <p>
   <figcaption>Fête de la Science, CNRS Lyon, France, 2020. Photo credit: Vincent Noclin, University of Lyon.</figcaption>
