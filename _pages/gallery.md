@@ -8,6 +8,20 @@ nav_order: 5
 ---
 
   <p>
+  <figcaption>Invited talk about language and technology. TungHai University, Taichung, Taiwan, 2023.</figcaption>
+  <img src="/assets/img/tunghai.jpg"
+    width="600" height="350"
+    alt="figure">
+  </p>
+
+  <p>
+  <figcaption>Invited talk about chatGPT and the future of AI. National ChengChi University, Taipei, Taiwan, 2023.</figcaption>
+  <img src="/assets/img/Taiwan.jpg"
+    width="600" height="350"
+    alt="figure">
+  </p>
+
+  <p>
   <figcaption>The contribution of collaborative data to linguistic exploration: a matter of phonetic typology.  Wikimédia France/ INALCO, 2022. </figcaption> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/J4cEFFpZmuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
