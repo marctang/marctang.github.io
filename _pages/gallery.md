@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
   <p>
-  <figcaption>Invited talk about language and technology. TungHai University, Taichung, Taiwan, 2023. https://www.thu.edu.tw/web/news/news_detail.php?cid=8&id=3802. </figcaption>
+  <figcaption><a href='https://www.thu.edu.tw/web/news/news_detail.php?cid=8&id=3802'>Invited talk about language and technology.</a> TungHai University, Taichung, Taiwan, 2023.</figcaption>
   <img src="/assets/img/tunghai.png"
     width="600" height="350"
     alt="figure">
