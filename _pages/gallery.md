@@ -7,13 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-
-genderconf.jpeg
-
   <p>
   <figcaption><a href='https://www.geisteswissenschaften.fu-berlin.de/we05/forschung/sprachwiss/LabEx/veranstaltungen/Gender-Workshop/index.html'>Invited talk about grammatical gender and gender.</a> Freie Universität Berlin, Berlin, Germany, 2023.</figcaption>
   <img src="/assets/img/genderconf.jpeg"
-    width="600" height="350"
+    width="550" height="350"
     alt="figure">
   </p>
 
