@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-To facilitate identification of author in the literature, I combined my two parent names (Allassonnière and Tang)  starting from 2020. As an overview, since 2017, my publications include {% bibliography_count -f papers --query @article[year >= 2017] %} articles, {% bibliography_count -f papers --query @incollection[year >= 2017] %} book chapters, {% bibliography_count -f papers --query @book[year >= 2017] %} book, and {% bibliography_count -f papers --query @inproceedings[year >= 2017] %} papers in conference proceedings.
+To facilitate identification of author in the literature, I combined my two parent names (Allassonnière and Tang)  starting from 2020. As an overview, since 2017, my publications include {% bibliography_count -f papers --query @article[year >= 2017] %} articles, {% bibliography_count -f papers --query @incollection[year >= 2017] %} book chapters, {% bibliography_count -f papers --query @book[year >= 2017] %} books, and {% bibliography_count -f papers --query @inproceedings[year >= 2017] %} papers in conference proceedings.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
