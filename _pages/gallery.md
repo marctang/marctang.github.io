@@ -9,7 +9,7 @@ nav_order: 5
 
   <p>
   <figcaption><a href='https://www.youtube.com/watch?v=6yKUZbB2ReU'>Using Grambank data to investigate the evolutionary trends of complexity in gender systems.</a> 
-MPI for Evolutionary Anthropology, 2023.</figcaption>
+MPI for Evolutionary Anthropology, Leipzig, Germany, 2023.</figcaption>
   <img src="/assets/img/Grambank2023.png"
     width="550" height="350"
     alt="figure">
