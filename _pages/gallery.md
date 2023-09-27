@@ -8,9 +8,11 @@ nav_order: 5
 ---
 
   <p>
-  <figcaption>Using Gambank data to investigate the evolutionary trends of complexity in gender systems. 
-MPI for Evolutionary Anthropology, 2023". </figcaption> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6yKUZbB2ReU?si=HDHEhkm_ZIbcUsQT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <figcaption><a href='https://www.youtube.com/watch?v=6yKUZbB2ReU'>Using Grambank data to investigate the evolutionary trends of complexity in gender systems. 
+MPI for Evolutionary Anthropology, 2023.</figcaption>
+  <img src="/assets/img/Grambank2023.png"
+    width="550" height="350"
+    alt="figure">
   </p>
 
   <p>
