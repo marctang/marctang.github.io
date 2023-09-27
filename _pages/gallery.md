@@ -8,6 +8,12 @@ nav_order: 5
 ---
 
   <p>
+  <figcaption>Using Gambank data to investigate the evolutionary trends of complexity in gender systems. 
+MPI for Evolutionary Anthropology, 202". </figcaption> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6yKUZbB2ReU?si=HDHEhkm_ZIbcUsQT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </p>
+
+  <p>
   <figcaption><a href='https://www.geisteswissenschaften.fu-berlin.de/we05/forschung/sprachwiss/LabEx/veranstaltungen/Gender-Workshop/index.html'>Invited talk about grammatical gender and gender.</a> Freie Universität Berlin, Berlin, Germany, 2023.</figcaption>
   <img src="/assets/img/genderconf.jpeg"
     width="550" height="350"
