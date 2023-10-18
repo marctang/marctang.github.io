@@ -12,7 +12,7 @@ nav_order: 4
 
 ​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU). <a href='../assets/pdf/Qualif_07_MarcTang_Descriptif.pdf'>[Application file]</a>
 
-[ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU).  
+[ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU). <a href='../assets/pdf/Qualif_15_MarcTang_Descriptif.pdf'>[Application file]</a>  
 
 [ACADEMIC TEACHER TRAINING COURSE](/assets/pdf/TrainingCourse.pdf) (SWEDEN, Uppsala University, five full-time work weeks).  
 The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
