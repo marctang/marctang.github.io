@@ -10,7 +10,7 @@ nav_order: 4
 
 ### CERTIFICATION
 
-​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU).
+​[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU). <a href='../assets/pdf/Qualif_07_MarcTang_Descriptif.pdf'>[Application file]</a>
 
 [ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU).  
 
