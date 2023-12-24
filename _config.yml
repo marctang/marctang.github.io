@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Marc
 middle_name: 
 last_name: Allassonnière-Tang
-email: marc.allassonniere-tang@mnhn.com
+email: marc.allassonniere-tang@mnhn.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A linguist/ computational linguist working at the Museum of Natural History in Paris.
 footer_text: >
