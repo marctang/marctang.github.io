@@ -8,6 +8,14 @@ nav_order: 5
 ---
 
   <p>
+  <figcaption><a href='https://www.youtube.com/watch?v=jYFTR6wfyq4'>Le genre sous toutes ses formes.</a> 
+Musée de l'Homme, Paris, France, 2024'.</figcaption>
+  <img src="/assets/img/traces.png"
+    width="550" height="350"
+    alt="figure">
+  </p>
+
+  <p>
   <figcaption><a href='https://www.youtube.com/watch?v=6yKUZbB2ReU'>Using Grambank data to investigate the evolutionary trends of complexity in gender systems.</a> 
 MPI for Evolutionary Anthropology, Leipzig, Germany, 2023.</figcaption>
   <img src="/assets/img/Grambank2023.png"
