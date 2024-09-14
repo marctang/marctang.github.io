@@ -16,6 +16,14 @@ Musée de l'Homme, Paris, France, 2024'.</figcaption>
   </p>
 
   <p>
+  <figcaption><a href='https://www.charentelibre.fr/charente/saint-amant-de-boixe/saint-amant-de-boixe-les-parlers-du-croissant-sont-a-l-honneur-a-l-abbaye-ce-week-end-21367809.php'>Invited talk on gender variation in French dialects.</a> National French Research Agency, Saint-Amant de Boixe, France, 2024.</figcaption>
+  <img src="/assets/img/stamant-colloque.jpg"
+    width="550" height="350"
+    alt="figure">
+  </p>
+
+
+  <p>
   <figcaption><a href='https://www.youtube.com/watch?v=6yKUZbB2ReU'>Using Grambank data to investigate the evolutionary trends of complexity in gender systems.</a> 
 MPI for Evolutionary Anthropology, Leipzig, Germany, 2023.</figcaption>
   <img src="/assets/img/Grambank2023.png"
