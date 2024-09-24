@@ -32,6 +32,14 @@ MPI for Evolutionary Anthropology, Leipzig, Germany, 2023.</figcaption>
   </p>
 
   <p>
+  <figcaption><a href='https://youtu.be/Ba7E2fEhpu8?si=q2bm6mbSSYhPl90q'> Unraveling the interactions between culture and language.</a> 
+Institute of Advanced Studies, Paris, France, 2023.</figcaption>
+  <img src="/assets/img/iea.png"
+    width="550" height="350"
+    alt="figure">
+  </p>
+
+  <p>
   <figcaption><a href='https://www.geisteswissenschaften.fu-berlin.de/we05/forschung/sprachwiss/LabEx/veranstaltungen/Gender-Workshop/index.html'>Invited talk about grammatical gender and gender.</a> Freie Universität Berlin, Berlin, Germany, 2023.</figcaption>
   <img src="/assets/img/genderconf.jpeg"
     width="550" height="350"
