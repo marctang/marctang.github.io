@@ -5,7 +5,7 @@ description: Grant ASLAN (2021 - 2024), co-Principal investigator, 229 916 euros
 img: assets/img/aslan.png
 redirect: https://aslan.universite-lyon.fr/projet-macdit-231683.kjsp?RH=1525438355903
 importance: 2021
-category: ongoing
+category: past
 ---
 
 Role: Principal Investigator (with J-P Magué)
