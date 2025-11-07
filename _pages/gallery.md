@@ -8,6 +8,22 @@ nav_order: 5
 ---
 
   <p>
+  <figcaption><a href='https://vimeo.com/1127173552/95aacdb0a6?fl=pl&fe=ti'>Ceci n'est pas une table.</a> 
+Festival Paris Science, Evènement Symbiose, 2025'.</figcaption>
+  <img src="/assets/img/symbiose.png"
+    width="550" height="350"
+    alt="figure">
+  </p>
+  
+  <p>
+  <figcaption><a href='https://images.cnrs.fr/video/8181'>Short movie for the CNRS bronze medal.</a> 
+Paris, France, 2024'.</figcaption>
+  <img src="/assets/img/cnrs.png"
+    width="550" height="350"
+    alt="figure">
+  </p>
+
+  <p>
   <figcaption><a href='https://www.youtube.com/watch?v=jYFTR6wfyq4'>Le genre sous toutes ses formes.</a> 
 Musée de l'Homme, Paris, France, 2024'.</figcaption>
   <img src="/assets/img/traces.png"
