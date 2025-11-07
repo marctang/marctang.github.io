@@ -19,7 +19,7 @@ Festival Paris Science, Evènement Symbiose, 2025.</figcaption>
   <figcaption><a href='https://images.cnrs.fr/video/8181'>Short movie for the CNRS bronze medal.</a> 
 Paris, France, 2024.</figcaption>
   <img src="/assets/img/cnrs.png"
-    width="550" height="350"
+    width="550" height="300"
     alt="figure">
   </p>
 
