@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The role of cognition for unpredictable content in the evolution of writing
+title: The unpredictable content in the evolution of writing
 description: Grant ANR-25-CE28-7755 (2026 - 2029), Co-investigator, 302 988 euros.
 img: assets/img/anr.png
 redirect: https://anr.fr/Project-ANR-25-CE28-7755
