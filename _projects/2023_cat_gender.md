@@ -5,7 +5,7 @@ description: Grant NetIAS (2023 - 2025), co-Principal investigator, est 60 000 e
 img: assets/img/netias.jpg
 redirect: https://www.paris-iea.fr/en/fellows/marc-allassonniere-tang-2
 importance: 2023
-category: ongoing
+category: past
 ---
 
 Role: Principal Investigator with
