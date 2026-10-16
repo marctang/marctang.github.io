@@ -20,8 +20,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My academic background is in general linguistics, including topics such as syntax and phonology. I worked in the computer industry (ASUS) before coming back to academia. I developed along the way (and I am also still developing) skills in quantitative computational typology and in linguistics to investigate and/or develop existing linguistic hypotheses in terms of synchrony and diachrony. 
+My academic background is in general linguistics, including topics such as syntax and phonology. I worked in the computer industry (ASUS) before coming back to academia. Since then, I have been developing skills in quantitative and computational typology to investigate and refine linguistic hypotheses, both synchronically and diachronically.
 
 My current research relates to (and is not restricted to) nominal classification systems, such as the masculine/feminine distinction in French or the shape-based classifiers in Mandarin. The main aim is to explain the worldwide diversity and distribution of such systems, which are found in around half of the languages of the world. This involves analyzing 'what is their definition', 'why they are found in some languages and not others', 'what is their function', 'how are their categories constructed', and 'how do they interact with the sociocultural and the cognitive systems'.
 
-Available for (but not limited to): Linguistic typology, Computational linguistics, Classification and regression, Bayesian phylogenetic inference, Agent-based simulation modeling
+Research interests and methods include (but are not limited to): linguistic typology, computational linguistics, classification and regression, Bayesian phylogenetic inference, and agent-based simulation modeling.
+
+I hold a habilitation (HDR) and can supervise PhD theses. Feel free to get in touch if you are interested in working on these topics.
+
+If you want to find out more about what I do in a more playful way, you can try these two games (in French): <a href="https://marctang.github.io/evo-game" target="_blank" rel="noopener">Evo-Game</a> and <a href="https://mamuszkina.github.io/Perdui-dans-l-espace/" target="_blank" rel="noopener">Perdui dans l'espace</a>. You can also browse the <a href="{{ '/gallery/' | relative_url }}">gallery</a> for videos and pictures.
