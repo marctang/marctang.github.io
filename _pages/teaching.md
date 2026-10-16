@@ -2,75 +2,60 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
+description: Courses, teaching modules, and supervision. The full list is in my <a href='/assets/pdf/MarcTang_CV_eng.pdf'>CV</a>.
 nav: true
 nav_order: 4
 ---
 
+I teach quantitative and computational methods for linguistics (R, statistics, machine learning, corpora) as well as linguistic typology. I hold a habilitation (HDR) and can supervise PhD theses.
 
-### CERTIFICATION
-
-​​[HABILITATION] [Habilitation à diriger des recherches] : The dynamics of nominal classification across language, culture, and the brain. Lyon, Université Lumière Lyon 2.
-
-[ASSISTANT PROFESSOR IN LANGUAGE SCIENCES](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 07 (Sciences du langage : linguistique et phonétique générales), Conseil national des universités (CNU). <a href='../assets/pdf/Qualif_07_MarcTang_Descriptif.pdf'>[Application file]</a>
-
-[ASSISTANT PROFESSOR IN LANGUAGE AND LITERATURE](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf) [Maître de conférences], FRANCE, Section 15 (Langues et littératures arabes, chinoises, japonaises, hébraïques, d’autres domaines linguistiques), Conseil national des universités (CNU). <a href='../assets/pdf/Qualif_15_MarcTang_Descriptif.pdf'>[Application file]</a>  
-
-[ACADEMIC TEACHER TRAINING COURSE](/assets/pdf/TrainingCourse.pdf) (SWEDEN, Uppsala University, five full-time work weeks).  
-The content consisted of theoretical perspectives on learning styles and teaching practices, the constructive alignment of teaching/learning, including teaching, norm-critical and inclusive pedagogy, and education for sustainable development. Participants also carry out a teaching assignment of their own that is subjected to discussion with an experienced teacher (teaching mentor) in mentored sessions prior to and following the teaching performance.
-
-[SUPERVISING STUDENTS FOR DEGREE PROJECT](/assets/pdf/Supervising.pdf) (SWEDEN, Uppsala University, two full-time work weeks).  
-The course included different supervisory styles, psychological and social aspects of supervision, conversation skills in supervision, conflict management, diversity-and-gender awareness, and evaluation of degree projects.
-
-[ASSESSMENT, GRADING AND FEEDBACK](/assets/pdf/Grading.pdf) (SWEDEN, Uppsala University, one full-time work week).  
-The course analyses different forms of assessment/examination. Summative (end of course) and formative (during the course) methods are discussed along with various forms of formative practices to use generate feedback from the students.
-
-&nbsp;
-&nbsp;
-
-### TEACHING MODULES
-
-[LANGUAGE AND TECHNOLOGY](https://www.nccu.edu.tw/index.php?Lang=en) ([4h], National ChengChi University, 2023)  
-Instructor for two teaching sessions about the use of language technology in academia and industry. The talks included topics such as machine learning, deep learning, and reinforced learning. These sessions are included in the general education course 'Language and World Civilization'. 
-
-[LINGUISTIC CATEGORIES AND LANGUAGE CHANGE](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696) ([3h], National Museum of Natural History, 2022)  
-Instructor for two teaching sessions. The participants (students and researchers) learned and discussed how to conduct linguistic analyses on corpus data. These sessions are included in the summer school 'Linguistics, sociolinguistics, and ethnolinguistics' of the Muséum National d'Histoire Naturelle in Paris.
-
-[AN INTRODUCTION TO MIXED MODELS](http://www.ddl.cnrs.fr/Info/Index.asp?Langue=FR&Page=Agenda&Jour=21&Mois=6&Annee=2021) ([3h], Lab Dynamics of Language, 2021)  
-Instructor for a 3-week introduction to (generalized) linear mixed models. The participants (students and researchers) learned, discussed, and practiced how to conduct and interpret the analysis of mixed models on language acquisition data. The analysis included topics such as interpreting fixed and random effects.
-
-[QUANTITATIVE TYPOLOGY OF CORPORA](https://www.univ-lyon2.fr/medias/fichier/lesla-master-sciences-du-langage-langues-langages-et-enjeux-societaux-web_1580209073106-pdf) ([3h], University Lyon 2/ Sorbonne University, 2021/ 2022)  
-Instructor for a teaching session on the use of corpora in linguistic research.The participants were taught how to build corpora based on raw data (involving recordings and/or transcriptions) and how to conduct basic analyses  (involving data visualization and statistical analyses) on these corpora.
-
-[AN ANALYSIS OF THE MORPHOLOGY-SYNTAX DISTINCTION](http://www.ddl.cnrs.fr/Info/Index.asp?Langue=FR&Page=Agenda&Jour=6&Mois=3&Annee=2020) ([3h], Lab Dynamics of Language, 2020)  
-Instructor for a 3-hour session introduction to generalized linear mixed models and tree-based computational classifiers. The participants (researchers) learned how to conduct automatic labelling of words, clitics, and affixes with machine learning methods such as generalized linear mixed models and decision-tree classifiers.
-
-[FIELDWORK SESSIONS WITH NATIVE SPEAKERS](https://fieldling.sciencesconf.org/) ([15h], INALCO/ Sorbonne University, 2019)  
-Instructor in charge of the full course (15h). During a week, students have 2 hours each day to conduct fieldwork with the native speaker of a language they do not speak. The students are given specific tasks for the course (e.g., identify the word order patterns of the language) and have to present their results at the end.
-
-[AN INTRODUCTION TO RANDOM FORESTS](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf)  ([5h], Uppsala University, 2018)  
-Instructor for 90-minute sessions introducing the use of the computational classifier of random forests in linguistics. The teaching modules were taught to an audience without previous experience in programming and provided the participants the skills to perform the test of random forests on a provided linguistic dataset.
-
-&nbsp;
 &nbsp;
 
 ### COURSES
 
-[CURRENT RESEARCH IN LINGUISTICS](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39057&type=1) (Undergraduate course [30h], Uppsala University, 2019)  
-Instructor in charge of the full course. The students are taught how to 1) write simple computer programmes using the R language to analyse, visualise, and process data 2) use appropriate methods to cluster data, to measure similarity between linguistic variables, and to test causal hypotheses.
+**An introduction to quantitative linguistics** — Undergraduate course (30h), Department of Data Science in Arts and Culture, Université Paris Sciences & Lettres, 2025.  
+Instructor in charge of the full course: an introduction to linguistics and to quantitative methods relevant for linguistics.
 
-[COGNITIVE LINGUISTICS](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39067) (Undergraduate course [30h], Uppsala University, 2019)  
-Instructor in charge of the full course. This course provides basic theoretical and methodological knowledge in the area of cognitive linguistics. The students are taught how to use and explain basic concepts of cognitive linguistics in their analysis (e.g., semantic frame, prototype, metaphor).
+**[Current research in linguistics](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39057&type=1)** — Undergraduate course (30h), Uppsala University, 2019.  
+Instructor in charge of the full course: qualitative and quantitative methods (R programming, clustering, similarity measures, hypothesis testing) to develop and test linguistic hypotheses.
 
-[VISUALISATION AND STATISTICS](https://github.com/marctang/VisStat-HT18) (Postgraduate course [30h], Uppsala University, 2018)  
-Instructor for weekly two-hour lab sessions of R programming in data visualisation an statistical analysis. The teaching content involved basic commands in R, data cleaning and reformatting, multidimensional scaling of data and basic statistical analyses.
+**[Cognitive linguistics](https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=39067)** — Undergraduate course (30h), Uppsala University, 2019.  
+Instructor in charge of the full course: core concepts of cognitive linguistics (semantic frames, prototypes, metaphor) and how to use them in analysis.
+
+**[Visualisation and statistics](https://github.com/marctang/VisStat-HT18)** — Postgraduate course (30h), Uppsala University, 2018.  
+Weekly lab sessions on R programming for data cleaning, visualisation, and statistical analysis.
+
+**French as a foreign language** — Group courses, levels A1–C2 (2,500h), Chinese Institute of European Languages, Taiwan, 2013–2015.
 
 &nbsp;
+
+### TEACHING MODULES
+
+- **Practical R for quantitative typology** — Conference teach-in (7h), Université Lumière Lyon 2, 2026. Extracting linguistic databases, generating maps, and fitting mixed models in R.
+- **Quantitative typology from linguistic corpora** — Postgraduate module (3h), University of Lyon, 2021–2026. Building corpora from raw data and analysing them.
+- **[Linguistic categories and language change](https://formation.mnhn.fr/formations/linguistique-sociolinguistique-ethnolinguistique-langue-tous-etats-2696)** — Summer school *Linguistics, sociolinguistics, and ethnolinguistics* (3h), MNHN, Paris, 2022 and 2026.
+- **The diversity of languages and the interaction between language, society, and the cognitive system** — Ethnomusicology module (3h), Sorbonne University, 2025.
+- **Language and technology** — General education course *Language and World Civilization* (4h), National ChengChi University, Taipei, 2023.
+- **An introduction to mixed models** — Postgraduate module (3h), Dynamics of Language lab, Lyon, 2021.
+- **A statistical analysis of the morphology–syntax distinction** — Postgraduate module (3h), Dynamics of Language lab, Lyon, 2020. Mixed models and decision-tree classifiers.
+- **[Fieldwork practice with native speakers](https://fieldling.sciencesconf.org/)** — International School in Linguistic Fieldwork (15h), Paris, 2019.
+- **An introduction to random forests in R** — Postgraduate module (5h), Uppsala University, 2018.
+
 &nbsp;
 
-### LANGUAGE COURSES
+### SUPERVISION
 
-[FRENCH](https://ciel.com.tw/) (High school/University level [2500h], Chinese Institute of European Languages, 2013 - 2015)  
-Instructor for group courses between A1 and C2 at the Chinese Institute of European Languages. The teaching load was 30 hours/week and the content involved conversation, writing, grammar courses, and preparation for the DELF diplomas. Teaching materials included but were not limited to CIEL1-6, Tempo1, Tempo2, Alter Ego3.
+- **PhD co-supervision** (with Lolke van der Veen): Tessa Vermeir, *Analyses phonologiques et lexicales des langues bantoues A80*, University of Lyon, 2023–.
+- **Master 2 internship**: Anna Lebouedec, linguistic documentation in New Caledonia, MNHN, 2026.
+- **Research engineers** (ANR EVOGRAM): Mathilde Josserand and Tessa Vermeir (2023–2024); Magdalena Lemus-Serrano and Marine Cozzolino (2025–2026).
+- **BA internships**: four students from the Department of Data Science in Arts and Culture, PSL, 2024.
+- **Doctoral school representative** for the ED 227 (DIVONA, MNHN–Sorbonne University), following five PhD students, 2025–.
+- **PhD committees and juries**: Université catholique de Louvain, Adam Mickiewicz University, National ChengChi University (see <a href='/assets/pdf/MarcTang_CV_eng.pdf'>CV</a> for details).
 
+&nbsp;
 
+### CERTIFICATIONS
+
+- **Habilitation à diriger des recherches (HDR)**: *The dynamics of nominal classification across language, culture, and the brain*, Université Lumière Lyon 2.
+- **Qualification as Maître de conférences** (CNU, France): [Section 07](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf), language sciences <a href='/assets/pdf/Qualif_07_MarcTang_Descriptif.pdf'>[application]</a>; [Section 15](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2021/Qualif_MCF2021.pdf), languages and literatures <a href='/assets/pdf/Qualif_15_MarcTang_Descriptif.pdf'>[application]</a>.
+- **University pedagogy** (Unit for Academic Teaching and Learning, Uppsala University): [Academic teacher training course](/assets/pdf/TrainingCourse.pdf) (5 weeks), [Supervising students for degree projects](/assets/pdf/Supervising.pdf) (2 weeks), [Assessment, grading and feedback](/assets/pdf/Grading.pdf) (1 week).
